@@ -1,0 +1,37 @@
+body{
+    background-image: radial-gradient(ellipse at top, #376579, #EDF2F4)
+}
+h1{
+    color: #ef233c;
+    font-size: large;
+    font-weight: bold;
+    font-family: Impact,Haettenschweiler,Franklin Gothic Bold,Charcoal,Helvetica Inserat,Bitstream Vera Sans Bold,Arial Black,sans serif; 
+}
+h3{
+    color: #2331ca;
+    font-size:2em;
+    font-weight: bold;
+    text-decoration:underline dotted;
+}
+article{
+    border: 1px solid black;
+}
+.class{
+    margin: auto;
+    display:block;
+}
+footer{
+    float: right;
+}
+ul{
+    list-style:none;
+}
+a:visited{
+    color:grey;
+}
+a{
+    color: #D90429 ;
+}
+a:hover{
+    color: #2b2d42;
+}
